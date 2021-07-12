@@ -1,4 +1,3 @@
-<div align="center">
 
 <h1 align="center">Hi 👋, I'm Mirza Krupić</h1>
 <h3 align="center">I am a second year IT student.</h3>
@@ -24,5 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzakrupic&show_icons=true&locale=en&layout=compact" alt="mirzakrupic" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirzakrupic&show_icons=true&locale=en" alt="mirzakrupic" /></p>
-  
- </div>
+
