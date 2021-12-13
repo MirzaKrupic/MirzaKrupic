@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Mirza Krupić</h1>
-<h3 align="center">I am a second year IT student.</h3>
+<h3 align="center">I am a third year IT student.</h3>
 
 - 🔭 I’m studying at [International Burch University](https://www.ibu.edu.ba)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **React**
 
 - 🤝 I’m looking to connect with **other developers**
 
