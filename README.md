@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking to connect with **other developers**
+- 🤝 I’m working as freelance front-end developer at [Bioptimizers](https://bioptimizers.com/)
 
 - 📫 How to reach me **krupicmirza99@gmail.com**
 
