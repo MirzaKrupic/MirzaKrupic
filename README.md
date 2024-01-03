@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mirza Krupić</h1>
-<h3 align="center">I am a third year IT student.</h3>
+<h3 align="center">I am a 2nd year Data Science Master student</h3>
 
 - 🔭 I’m studying at [International Burch University](https://www.ibu.edu.ba)
 
